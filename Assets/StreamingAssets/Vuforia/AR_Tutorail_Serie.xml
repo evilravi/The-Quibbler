@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="surat" size="1.000000 0.397317" />
+    <ImageTarget name="kumbh" size="1.000000 0.584650" />
+    <ImageTarget name="vit" size="1.000000 0.583497" />
+    <ImageTarget name="modi" size="1.000000 0.571906" />
+    <ImageTarget name="zeep" size="0.210000 0.299520" />
+    <ImageTarget name="cric" size="1.000000 0.708202" />
+    <ImageTarget name="QR" size="0.210000 0.210000" />
+  </Tracking>
+</QCARConfig>
